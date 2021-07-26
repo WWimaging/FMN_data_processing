@@ -2,7 +2,7 @@
 This repo includes scripts used for processing post-mortem (FMN) dHCP data
 
 
-# Functions and code:
+# Functions and code (see summary):
 
 ### preprocess dMRI data
 ./dMRI_preprocess.sh
