@@ -14,7 +14,7 @@
 # cortical depth based analysis
 ./depth_para.sh
 # tract based analysis
-./Tract_analyses.sh
+./tract_para.sh
 # save out tract data into .mat format
 run tract_para_save.m
 #run lda analysis
