@@ -1,8 +1,7 @@
 # FMN_data_processing v1.0
-This repo includes scripts used for processing post-mortem (FMN) dHCP data
+This repository includes scripts used for processing post-mortem (FMN) dHCP data
 
-
-# Functions and code (see summary):
+# Functions and code (summary file):
 
 ### preprocess dMRI data
 ./dMRI_preprocess.sh
