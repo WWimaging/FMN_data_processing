@@ -28,7 +28,7 @@ This repository includes scripts used for processing post-mortem (FMN) dHCP data
 ### save out tract data into .mat format
 run tract_para_save.m
 
-### run lda analysis
+### run LDA analysis
 run LDA_calc.ipynb
 
 ### depth based analysis plot
