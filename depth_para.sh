@@ -316,8 +316,6 @@ for subject in ${subject_list}; do
 
   mkdir -p ${output_dir}/${subject}/step_1
 
-#
-#  cp -rf ${results_depth_tract}/in_vivo/depth_profiles_202102/${subject}/step_1 ${output_dir}/${subject}/
 
   echo -e "\t step 1"
 
