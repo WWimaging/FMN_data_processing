@@ -19,7 +19,7 @@ ${noddi_process}/run_NODDI_cleanup.sh ${diff_folder} -m exvivo
 
 
 
-#In vivo data has been processed in the release; DKI fit is provided)
+#In vivo data has been processed in the dHCP release, in which DKI fit is provided)
 
 Data_invivo="path_to_in_vivo_dataset"
 
