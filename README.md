@@ -36,8 +36,6 @@ run depth_analyses_plot.m
 
 # Software used in this work:
 
-Image reconstruction was performed using MATLAB v9.7.0
-
-MRI data analysis was performed using FSL v6.0.3, dHCP structural analysis pipeline (dhcp-structural-pipeline) v1.1, Connectome Workbench 1.4.2, baby autoPtx tool, which is part of the dHCP diffusion processing pipeline v0.0.2 and CUDA diffusion modelling toolbox ('cuDIMOT'). Figure plotting was performed using MATLAB v9.7.0 and Python v3.7.4
+MRI data analysis was performed using FSL v6.0.3, dHCP structural analysis pipeline (dhcp-structural-pipeline) v1.1, Connectome Workbench 1.4.2, baby autoPtx tool, which is part of the dHCP diffusion processing pipeline v0.0.2 and CUDA diffusion modelling toolbox ('cuDIMOT'). Figures were generated using MATLAB v9.7.0 and Python v3.7.4
 
 
